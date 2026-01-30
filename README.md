@@ -10,20 +10,22 @@
 ## 📊 Open Source Impact
 
 | Project | Contributions | Focus |
-|---------|--------------|-------|
+|---------|---------------|-------|
 | [**MicroPython**](https://github.com/micropython/micropython) ⭐19k | 11 Security PRs | Runtime security hardening, overflow protection, input validation |
-| [**Cline AI**](https://github.com/cline/cline) ⭐30k | 10+ PRs | Multi-provider AI integrations, bug fixes, performance |
-| [**Thoughtworks Radar**](https://github.com/thoughtworks/build-your-own-radar) ⭐2k | 3 PRs | Security patches, i18n, PDF rendering |
+| [**Cline AI**](https://github.com/cline/cline) ⭐30k | 10 PRs | Multi-provider AI integrations, bug fixes, performance |
+| [**Thoughtworks Radar**](https://github.com/thoughtworks/build-your-own-radar) ⭐2k | 6 PRs | Security patches, i18n, PDF rendering, Docker fixes |
+
+**📈 27 Open PRs** across 3 major repositories
 
 ---
 
 ## 🎯 Core Expertise
 
 ```
-🔒 Runtime Security      → Vulnerability identification in language runtimes (C/Python)
-⚙️ Embedded Systems      → STM32, ESP32, FreeRTOS, ARM Cortex-M, MicroPython
-🤖 AI Platform Dev       → LLM integrations, VS Code extensions, async architectures  
-🌐 Backend & APIs        → Node.js, TypeScript, Express, PostgreSQL, Docker
+🔒 Runtime Security       → Vulnerability identification in language runtimes (C/Python)
+⚙️ Embedded Systems       → STM32, ESP32, FreeRTOS, ARM Cortex-M, MicroPython
+🤖 AI Platform Dev        → LLM integrations, VS Code extensions, async architectures  
+🌐 Backend & APIs         → Node.js, TypeScript, Express, PostgreSQL, Docker
 ```
 
 ---
@@ -52,7 +54,7 @@ Full-stack REST API for smart meter readings. TypeScript, Express, 88% test cove
 
 ---
 
-## 🛠️ Tech Stack
+## 🖥️ Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
